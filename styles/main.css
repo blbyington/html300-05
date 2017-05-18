@@ -1,0 +1,35 @@
+table {
+
+  width: 80%;
+  border: .25em solid;
+  border-color: grey;
+}
+div{
+  margin: 1em;
+}
+th {
+  color: grey;
+}
+
+h3 {
+  color: blanchedalmond;
+}
+
+form {
+  width: 25%;
+  padding: .25em;
+}
+
+
+label {
+  display: inline-block;
+  width: 5em;
+  text-align: left;
+}
+
+input, textarea {
+  width: 100%;
+  border: 1px solid;
+  border-color: grey;
+}
+
